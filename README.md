@@ -51,19 +51,6 @@ rusty-bargain-gradient-autos/
 └── README.md
 ```
 
-## How to Run
-
-1. Clone the repository and install dependencies:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn lightgbm xgboost joblib
-```
-
-2. Open and run the notebook:
-
-```bash
-jupyter notebook "rusty-gradient-val.ipynb"
-```
 
 ## Results
 
